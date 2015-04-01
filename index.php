@@ -51,5 +51,5 @@
 	} else {
 		define('APP_PATH', ROOT . DS . APP_DIR . DS);
 		define('CORE_PATH', CAKE_CORE_INCLUDE_PATH . DS);
-	}
+	}ㅁㄴㅇ러ㅗㅁㄴ오랑ㅁ노라ㅓㅗㅁ낭뢰멎디ㅏ거ㅣㅏㅈ더개ㅑㅂ저대ㅑㅓ이ㅏㅓㅁ니ㅏ어ㅣㅂㅈㅇㅈ
 	require APP_DIR . DS . WEBROOT_DIR . DS . 'index.php';
